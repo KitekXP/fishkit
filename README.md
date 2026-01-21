@@ -1,2 +1,2 @@
-# cdrm
-A plugin for the fish shell that goes to the parent directory and deletes the past directory
+# fishkit
+Set of fuctions/aliases by me for daily use.
